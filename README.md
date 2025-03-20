@@ -18,7 +18,6 @@ Building scalable microservices
 Exploring GraphQL and server-side rendering with Next.js
 
 📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/sagar-vishwakarma-bb7939304/
 Email: pavankumarnarapureddy1@gmail.com
 
 
