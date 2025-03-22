@@ -3,8 +3,8 @@
 Hi, I'm pavankumarnarapureddy! I'm a passionate full-stack developer specializing in building modern web applications with a focus on both frontend and backend technologies. I love problem-solving and exploring new technologies, always aiming to improve and deliver impactful solutions.
 
 💻 Tech Stack
-Frontend: React, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
-Backend: Node.js, Express.js, MongoDB, REST APIs, WebSockets
+Frontend:  HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
+Backend: java,java8 features, J2EE,hibernate framework, MSQL database
 Version Control: Git, GitHub
 
 🔨 Projects
@@ -15,10 +15,9 @@ IMDB_APP_CLONE :- This project is dedicated to gaining a deep understanding of R
 
 🌱 Currently Learning
 Building scalable microservices
-Exploring GraphQL and server-side rendering with Next.js
 
 📫 Let's Connect
-Email: pavankumarnarapureddy1@gmail.com
+Email: pavankumarnarapureddy2002@gmail.com
 
 
 
